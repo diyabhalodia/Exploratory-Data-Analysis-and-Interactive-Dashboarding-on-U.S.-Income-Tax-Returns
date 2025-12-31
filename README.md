@@ -15,15 +15,6 @@ The analysis follows an end-to-end data analytics workflow, including **data cle
 
 ---
 
-## 🗂️ Project Structure
-Income-Tax-Analysis/
-│
-├── Data cleaning and EDA.ipynb
-├── Dashboard.pbix
-└── README.md
-
----
-
 ## 📁 File Descriptions
 
 ### 1️⃣ Data cleaning and EDA.ipynb
@@ -73,13 +64,6 @@ Income-Tax-Analysis/
 - Statistical Interpretation  
 - KPI Design & Dashboarding  
 - Business & Policy Insight Generation  
-
----
-
-## 🚀 How to Use
-1. Open `Data cleaning and EDA.ipynb` to review data preparation and analysis steps  
-2. Open `Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard  
-3. Use insights for reporting, presentations, or portfolio demonstrations  
 
 ---
 
