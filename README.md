@@ -40,6 +40,8 @@ The analysis follows an end-to-end data analytics workflow, including **data cle
   - Trend and comparison visuals for key financial metrics  
 - Designed for **clear storytelling and decision-making**
 
+  ![Power BI Dashboard](assets/dash_incometax.png)
+
 ---
 
 ## 📊 Key Insights
